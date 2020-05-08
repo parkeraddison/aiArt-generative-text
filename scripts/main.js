@@ -315,8 +315,9 @@ for (let i = 0; i < elements.length; i++) {
 let presetButtons = document.querySelectorAll("button")
 
 let presets = {
-    "0": Array(39).fill(0),
+    "0": Array(40).fill(0), // 39 + 1 for the demo dropdown
     "1": [
+        0, // Temporary -- for the demo dropdown otherwise everything is offset
         2,
         1,
         3,
