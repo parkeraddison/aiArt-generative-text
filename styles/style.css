@@ -59,7 +59,7 @@ code {
 .header {
     background-color: var(--slate-grey);
     /* background-image: url("https://images.unsplash.com/photo-1571769267292-e24dfadebbdc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjF9&auto=format&fit=crop&w=1967&q=80"); */
-    background-image: url("images/nicolas-lobos.jpg");
+    background-image: url("../images/nicolas-lobos.jpg");
     background-size: cover;
     background-position: bottom center;
     background-attachment: fixed;
@@ -111,6 +111,7 @@ code {
     -ms-grid-columns: 1fr minmax(auto, 52em) 1fr;
     grid-template-columns: 1fr minmax(auto, 52em) 1fr;
     padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 .content {
@@ -173,6 +174,12 @@ code {
     left: 0;
     bottom: 0;
     right: 0;
+}
+
+#description-container.collapsed #desc-toggle::after {
+    content: ' /read more context/';
+    opacity: 0.5;
+    font-size: 90%;
 }
 
 blockquote {

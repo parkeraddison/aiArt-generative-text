@@ -302,7 +302,7 @@ for (let i = 0; i < elements.length; i++) {
     span.innerHTML = generation.choices[0];
 
     // Listen for dropdown selections
-    element.addEventListener("click", function () {
+    element.addEventListener("change", function () {
 
         span = this.querySelector("span");
         select = this.querySelector("select");
