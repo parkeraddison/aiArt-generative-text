@@ -5,7 +5,7 @@
 <img src="./images/example.gif">
 </p>
 
-### Website: [lost-in-deep.space](https://lost-in-deep.space)
+### Website: [parkeraddison.com/aiArt-verbosified-space-rovers/](https://parkeraddison.com/aiArt-verbosified-space-rovers/)
 
 ### Table of Contents:
 [Abstract](#abstract)  
@@ -19,7 +19,7 @@
 
 ### **Abstract:**
 
-In early 2019, OpenAI released a language model called GPT-2 which was widely [sensationalized](https://www.independent.co.uk/life-style/gadgets-and-tech/news/ai-artificial-intelligence-dangerous-text-gpt2-elon-musk-a9192121.html) as being "[too dangerous to release](https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction)" due to its capability to generate bulk amounts of believable text.  It's precisely that model which I chose to use as the main tool for this project.   [This art project](https://lost-in-deep.space): accomplishes what a word-count-seeking writer could only dream of; is a statement to the needlessly verbose writing style I often find myself embodying; and showcases that the 'scariness' of GPT-2 depends largely on how the model is configured.
+In early 2019, OpenAI released a language model called GPT-2 which was widely [sensationalized](https://www.independent.co.uk/life-style/gadgets-and-tech/news/ai-artificial-intelligence-dangerous-text-gpt2-elon-musk-a9192121.html) as being "[too dangerous to release](https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction)" due to its capability to generate bulk amounts of believable text.  It's precisely that model which I chose to use as the main tool for this project.   [This art project](https://parkeraddison.com/aiArt-verbosified-space-rovers/): accomplishes what a word-count-seeking writer could only dream of; is a statement to the needlessly verbose writing style I often find myself embodying; and showcases that the 'scariness' of GPT-2 depends largely on how the model is configured.
 
 In this art piece, I manipulated the GPT-2 model to double the word count of an essay without significantly altering the meaning of the essay.  I also display results which—despite my constraints—still manage to demonstrate the model's frightening creativity.
 
@@ -70,7 +70,7 @@ To develop the final model, a collection of "passages" is created.  Each passage
 
 ## Results:
 
-Results can be seen [at the website](https://lost-in-deep.space).
+Results can be seen [at the website](https://parkeraddison.com/aiArt-verbosified-space-rovers/).
 
 ## Code:
 
